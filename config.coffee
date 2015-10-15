@@ -13,13 +13,9 @@ exports.config =
 				before: [
 					# vendor
 					'vendor/jquery-2.1.3.min.js',
-					'vendor/angular.min.js',
-					'vendor/angular-route.min.js',
-					'vendor/angular-animate.min.js',
 					'vendor/bootstrap.min.js',
 					# app
 					'app/js/main.js',
-					'app/js/controllers.js'
 				] 
 
 		stylesheets:
